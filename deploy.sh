@@ -1,0 +1,1 @@
+cp gpt-commit.py ../../.bin/gpt-commit 
